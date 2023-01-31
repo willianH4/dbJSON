@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name":"App Digital",
+      "email":"a*****************@tecnoin.com.sv",
+      "phone":"****5147",
+      "identifier": "XgrAay0BdVi1dI4PmVKrKw==",
+      "otpExpiration":"2023-01-31T15:29:10.843894239",
+      "otpIntentos":3
+   }
+  ],
+  "code": [
+    {
+      "id": "123456",
+      "name":"App Digital",
+      "email":"a*****************@tecnoin.com.sv",
+      "phone":"****5147",
+      "identifier": "XgrAay0BdVi1dI4PmVKrKw==",
+      "otpExpiration":"2023-01-24T11:49:00.843894239",
+      "otpIntentos":3
+   }
+  ]
+}
+
